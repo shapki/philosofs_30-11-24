@@ -1,0 +1,1 @@
+class Philosopher (val id: Int, var hasFork: Boolean = false)
